@@ -1,2 +1,3 @@
 # hello-world
-For the guide
+
+My name is Sphen. This project is for the Github guide.
